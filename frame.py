@@ -1,10 +1,10 @@
 import Tkinter as Tk
 
 root=Tk.Tk()
-root.title("Hello World")
+root.title("Frame")
 
 frame1=Tk.Frame(root,bg="blue",height=200,width=400)
-frame1.grid(row=1,column=1)#,sticky='n')
+frame1.grid(row=1,column=1,sticky='n')
 
 frame2=Tk.Frame(root,bg="red",height=200,width=400)
 frame2.grid(row=2,column=1)
