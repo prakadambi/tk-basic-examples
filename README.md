@@ -1,5 +1,6 @@
 # tk-basic-examples
-basic gui examples using python's tkinter
+basic gui examples using python's tkinter.
+All examples are tested on Python 2.6.
 
-refer https://docs.python.org/2/library/tkinter.html for sources
+references: https://docs.python.org/2/library/tkinter.html
 
